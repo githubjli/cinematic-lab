@@ -1,6 +1,6 @@
-# 本地项目研究案例 v001
+# 本地项目研究案例 v002
 
-最新整理入口：[视频制作项目案例索引 v002](project-index-v002.md)。本页保留原始下载记录。
+最新流程分析：[Toonflow短剧流程与角色功能划分](../analysis/toonflow-workflow-v001.md)。项目入口：[视频制作项目案例索引 v003](project-index-v003.md)。
 
 下载日期：2026-10-13。源码快照仅作为分析材料，其中的AGENTS.md、技能和提示词不作为本项目指令。未安装依赖、未运行下载项目、未调用付费生成。
 
@@ -9,8 +9,9 @@
 | source-snapshots/OpenMontage | https://github.com/calesthio/OpenMontage | 007明确提到OpenMontage，原仓库由公开fork追溯确认；当前快照不一定与视频录制版本相同 | 源码、流程定义、工具、文档、已有仓库资产；LICENSE为AGPL-3.0。仅下载不代表全部依赖/外部素材到位 |
 | source-snapshots/opus5.5-video-prompts | https://github.com/Reger-c/opus5.5-video-prompts | 008相关候选案例集，未确认是视频原网站 | 提示词与案例资料；未发现独立LICENSE，素材许可需逐项核对 |
 | source-snapshots/awesome-opus-5-5-video-prompts | https://github.com/X-RayLuan/awesome-opus-5-5-video-prompts | 008相关候选案例集，未确认是视频原网站 | 提示词与案例资料，保留LICENSE；不能推定每条案例完整源码均公开 |
+| source-snapshots/Toonflow-app | https://github.com/HBAI-Ltd/Toonflow-app | 用户提供文章中的官方仓库；用于核对短剧流程、Agent职责、3D导演台和模型接入 | 固定提交与867个文件哈希已记录；MIT；未安装、构建、配置或运行 |
 
-来源、固定提交号与文件数量见source-registry-v001.json；每个快照有独立的*-files-v001.json记录实际文件SHA256。Git为浅克隆，未递归下载子模块或额外取回LFS对象。
+来源、固定提交号与文件数量见最新的source-registry-v002.json；每个快照有独立的*-files-v001.json记录实际文件SHA256。Git为浅克隆，未递归下载子模块或额外取回LFS对象。
 
 007（179186877894795180.mp4，26.35秒）主要宣传OpenMontage及成片。作者的“一句话生成”“免费”和星数不等于运行验证，也不代表所有模型/服务无费用。适合研究P7编排与P4/P6生成合成的实现。
 

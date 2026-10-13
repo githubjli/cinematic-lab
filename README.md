@@ -12,6 +12,7 @@
 - [扩展案例分类 v002（001–008）](analysis/comparison-v002.md)
 - [已下载项目与候选案例集](cases/README.md)
 - [视频制作项目案例索引 v002](cases/project-index-v002.md)
+- [视频制作项目案例索引 v003](cases/project-index-v003.md)
 - [工具详细选型表 v001：后续需求优先参考](docs/tool-selection-v001.md)
 - [数学AI与可视化工具选型 v001](docs/math-tool-selection-v001.md)
 - [案例009–011：流程、工具与应用场景](analysis/cases-009-011-v001.md)
@@ -20,6 +21,8 @@
 - [可复用技巧索引 v001](docs/workflow-techniques-v001.md)
 - [案例016–017：渲染语言提示与角色设定板](analysis/cases-016-017-v001.md)
 - [可复用技巧索引 v002](docs/workflow-techniques-v002.md)
+- [Toonflow短剧流程与角色功能划分](analysis/toonflow-workflow-v001.md)
+- [工具选型补充 v003：Toonflow](docs/tool-selection-addendum-v003.md)
 
 尚未完成连续音画审查、完整逐字转录或独立生成复现；文档明确标记证据边界。
 不得将抽帧视为运动验证；不得从参考片猜测模型、提示词或参数。当前未生成或提交任何新素材。
