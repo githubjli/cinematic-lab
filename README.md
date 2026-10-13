@@ -2,7 +2,7 @@
 
 独立写实电影风格项目，创建于2026-10-13，与animation-lab同级。
 
-当前已有：17个参考视频原始副本及SHA256来源记录、静态采样、统一分析方法和跨案例流程分类。
+当前已有：18个参考视频原始副本及SHA256来源记录、静态采样、统一分析方法和跨案例流程分类。
 参考视频、抽帧图片、运行工具及第三方源码快照保留本地；Git仅保存文档、来源/哈希记录和分析文字日志。克隆仓库不会自动获得本地视频。
 当前研究范围：拆解参考视频中提到的AI制作技术流程与方法。原创故事和生成不属于当前授权工作。
 
@@ -23,6 +23,10 @@
 - [可复用技巧索引 v002](docs/workflow-techniques-v002.md)
 - [Toonflow短剧流程与角色功能划分](analysis/toonflow-workflow-v001.md)
 - [工具选型补充 v003：Toonflow](docs/tool-selection-addendum-v003.md)
+- [案例018：Anatomy交互式原理图Skill](analysis/018/v001/method-study.md)
+- [工具选型补充 v004](docs/tool-selection-addendum-v004.md)
+- [数学AI与可视化工具选型 v002](docs/math-tool-selection-v002.md)
+- [视频制作项目案例索引 v004](cases/project-index-v004.md)
 
 尚未完成连续音画审查、完整逐字转录或独立生成复现；文档明确标记证据边界。
 不得将抽帧视为运动验证；不得从参考片猜测模型、提示词或参数。当前未生成或提交任何新素材。

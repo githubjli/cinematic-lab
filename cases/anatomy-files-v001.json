@@ -1,0 +1,590 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "CDD266359C792670902C16DA138E75D6B10BBA6251B1842191AB46939AE2C7AA"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+    "sha256": "3AF88215F514F9D18BD87D102A8257309F22F4200705A585F57DF9FBDAC26956"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/config.yml",
+    "sha256": "B6DCBDD46103891D9614C85E7F28A74452E3A2C5DB7393C5444AD4A029880C0C"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/figure_request.yml",
+    "sha256": "69FDD31D68B4D49840D5A97618AD10A00E4E65C0632DAAF00FB9660B42AF13A5"
+  },
+  {
+    "path": ".github/PULL_REQUEST_TEMPLATE.md",
+    "sha256": "95BB2BE701CD6E1E3E9797596B573F2324D903288BCE9B01B114CA3455B1A239"
+  },
+  {
+    "path": ".github/assets/dial-indicator.webp",
+    "sha256": "A1F0550E0938A3C76316FDDD272792D5F50609CCECA7217606B187868D7F4FE7"
+  },
+  {
+    "path": ".github/assets/raptor-engine-apart.webp",
+    "sha256": "DB1BEE237411D26D97E2E88F60949A75F9F160A0139D03382F46A2E2D6801050"
+  },
+  {
+    "path": ".github/assets/raptor-engine-firing.webp",
+    "sha256": "C42A9EB6AACB506F7BAF0FD91D4FBB04649999E9615F9847585DAFF595A62D55"
+  },
+  {
+    "path": ".github/assets/ripple-tank.webp",
+    "sha256": "1312C34386E18792D44C3D3E1939D22E14BC48CE67E4F48EB29C543E741F79C2"
+  },
+  {
+    "path": ".github/assets/turning-dial.webp",
+    "sha256": "F77D1A97EFC718D875CA3ABFA0C0A0B64049797006E188F804383D0173281739"
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "sha256": "EDF8FB39A6E960FAE25898C3822C2A63D1EA9A1F83AED0F300F220A2268B6107"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "7340A4546689CA1BC113C156E8264C7C673ED44C52BB9D2A8DD1C663BBA7390A"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "5F7CDB0212F216F4D7089C113FAB07A84224E3114CB63A84148A995D284378A9"
+  },
+  {
+    "path": "CODE_OF_CONDUCT.md",
+    "sha256": "DD94A5C1483143876992D096247D6B5531FD7A1041728BEE339B007FE15764E5"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "sha256": "1F31D0D807D98C5C5642EF80CF1DE788FE1416139A993FAAA156419EEAA7EFCA"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "87C078AB9D90A3044F359E6B563D4E6AFEA7AA060897CF4F21618687B3856796"
+  },
+  {
+    "path": "README.md",
+    "sha256": "834BF0870EB238DEB360E9A479717E04B5EB990187CF2A5B8D1FB9F31433CDA5"
+  },
+  {
+    "path": "SECURITY.md",
+    "sha256": "C9BD6A03B51053BE6321F88110F9589E73C1CB00AA81D9D1C2881E94073E9629"
+  },
+  {
+    "path": "SKILL.md",
+    "sha256": "1993151CA39AFD7880A20D871AACC0DDD348090530D8135DC5EA51AF28F25305"
+  },
+  {
+    "path": "agents/openai.yaml",
+    "sha256": "254B17510460BC5151295B1E1E40B6A1ACEEFF60A0DDA4E9594ADCFA36819526"
+  },
+  {
+    "path": "evals/evals.json",
+    "sha256": "B79AFA9DAA10084C71BB18C3BAAFEF403A929C1D707B2BE4C636952AE1896DD4"
+  },
+  {
+    "path": "examples/arcade-cabinet/arcade-cabinet-light.html",
+    "sha256": "03F832383879A031119DE40DFAAFF7B800BAA975065992079FF6377267D8CB5E"
+  },
+  {
+    "path": "examples/arcade-cabinet/arcade-cabinet.css",
+    "sha256": "A0EA7BCE89A665DDD13F72DAF31849C07D8B517B66A3D555543AA506B8933629"
+  },
+  {
+    "path": "examples/arcade-cabinet/arcade-cabinet.html",
+    "sha256": "6D95F892C35D888AC635870244EC904BF6E79E10927F1F5A345BB844BC606BFF"
+  },
+  {
+    "path": "examples/arcade-cabinet/build.mjs",
+    "sha256": "A5E92188B54FB18FE7FBCE3DBC86A8E55ABF32F2560BE667AC0866D089BA7B84"
+  },
+  {
+    "path": "examples/arcade-cabinet/live.js",
+    "sha256": "D9F02EA9193F3109501333BDFB4AB297A71457AABA431F05F5DF667EA8C40C8F"
+  },
+  {
+    "path": "examples/arcade-cabinet/parts.mjs",
+    "sha256": "3BA74B8C55E72933B1E119E3D24C939F654B2C43D41FF26CF855F064CBC7D2A3"
+  },
+  {
+    "path": "examples/arcade-cabinet/screen.mjs",
+    "sha256": "8FBB8AEBB1D657508979EC9B58A29281C71403396DF1FCDC6F8F834FE9097BE9"
+  },
+  {
+    "path": "examples/desk-computer/build.mjs",
+    "sha256": "D378F9814ACF75BC915921D4F2D83ED1EB4991A8B4298EB0DE0E10383B2FF66D"
+  },
+  {
+    "path": "examples/desk-computer/desk-computer-light.html",
+    "sha256": "CE63C5BED81B76491A82F5E94D22E5F64744C87BC448FDAD8726AE0C6ECD0B59"
+  },
+  {
+    "path": "examples/desk-computer/desk-computer.html",
+    "sha256": "94F04084C1CE997A88E60FC0B4D9C5B6DBE859B95EE0DD7A10603E648FCED2BC"
+  },
+  {
+    "path": "examples/dial-indicator/build.mjs",
+    "sha256": "E4EAA2324AF7F2630650CA72E52A78D56159213A786E14FBA8321344789F990D"
+  },
+  {
+    "path": "examples/dial-indicator/dial-indicator-light.html",
+    "sha256": "BC1810E340D916A25CC1749589B44096B7E41970F22FA7FCE569BBEFC0613093"
+  },
+  {
+    "path": "examples/dial-indicator/dial-indicator.html",
+    "sha256": "2BA95D49A5432A5AA764FCA89AF91AB91043531669609ED57B92BD50B51E5519"
+  },
+  {
+    "path": "examples/raptor-engine/build.mjs",
+    "sha256": "26064DF05BB650845EC485195F972F5A0FED3C21EE152F0B8DB8194FDC26D916"
+  },
+  {
+    "path": "examples/raptor-engine/live.js",
+    "sha256": "03D801EF2B75E17A38EBC3D5CB9178747226EA8C2E0C527CAAFB9C72844D88D8"
+  },
+  {
+    "path": "examples/raptor-engine/raptor-engine-light.html",
+    "sha256": "F49110757E6E55EBFBEE090E40676E3FCE814CE664DE0F8905A20233A1432265"
+  },
+  {
+    "path": "examples/raptor-engine/raptor-engine.html",
+    "sha256": "2D0F782B459DCD5BC3AA8C4CE922A1F523F63F2799D120F9C0DE2DC732CC92E1"
+  },
+  {
+    "path": "examples/raptor-engine/raptor.css",
+    "sha256": "F850575FEEEACAC8EF5D9D9C49359F4DEAEF848666C68A4DAFA9727FE926CD6E"
+  },
+  {
+    "path": "examples/ripple-tank/build.mjs",
+    "sha256": "5A5B846BCD146630BE3EAFB73EBD04CFDD2101D05DEF15A877FFF7188822B493"
+  },
+  {
+    "path": "examples/ripple-tank/live.js",
+    "sha256": "D2427EADA1948662C680B9CA42E8D6E81979F9206C0572524AC404F204F07B5E"
+  },
+  {
+    "path": "examples/ripple-tank/model.mjs",
+    "sha256": "F6315AA53E80C0C69BF3C52BAF0A1340CA4DAACFAE80245DEF02F357C2D33882"
+  },
+  {
+    "path": "examples/ripple-tank/ripple-tank-light.html",
+    "sha256": "922CA1692B76A72BBC9330708AF56A5073C41F6936D87DA507F5FC1247A9C94F"
+  },
+  {
+    "path": "examples/ripple-tank/ripple-tank.html",
+    "sha256": "6AE0099F420C96B0241A74361AEA700EF83E554D5F17D5FBCDFD9C130335C27E"
+  },
+  {
+    "path": "examples/ripple-tank/ripple.css",
+    "sha256": "1BF7A778F0B50928ADCD54E67C44AA2B12A6877B45F15A0B697D87AB7BE0DD5C"
+  },
+  {
+    "path": "examples/spot-plate/art.tsx",
+    "sha256": "AECEF8D6EE247E99D52717371A319283AF8B1BBBA2ADFCDD4D012553D2963B38"
+  },
+  {
+    "path": "examples/spot-plate/drops.ts",
+    "sha256": "9BEC874C5E324D69A25CC9085ECF2C5D9C3C2E3BD1A8C667C45E048301B899D4"
+  },
+  {
+    "path": "examples/spot-plate/fan.ts",
+    "sha256": "648C1D946E9512AFCAE60E077D2436926CA1EA94B02C944DF8624419812077B1"
+  },
+  {
+    "path": "examples/spot-plate/figure.tsx",
+    "sha256": "B9DB1EF99BFAC58D55D0506F05E0C178E5C9566C61CBF26826EA25CFAA57805F"
+  },
+  {
+    "path": "examples/spot-plate/geometry.ts",
+    "sha256": "FAF7D6BF1B475DAACD4751687D409D7A5C03A6C2BB216AE81BEADCE5A3CEA99A"
+  },
+  {
+    "path": "examples/spot-plate/live.tsx",
+    "sha256": "E96FD47AA4AB250A6B2C6FE3C6C3C96D4BCF737DFF7F084D4912F5D1EF195116"
+  },
+  {
+    "path": "examples/spot-plate/rig.ts",
+    "sha256": "B19FC1637A1F4C411C23F34C7A48361F308402B15B11EFC44FB6555E8F67CEEA"
+  },
+  {
+    "path": "examples/spot-plate/spot-plate.css",
+    "sha256": "B31E4C8E02F4DE0B77FE0A71718F59D7DF2E3ABC3D9772F802E00FC3D8A582BD"
+  },
+  {
+    "path": "examples/test-rig/art.tsx",
+    "sha256": "A6B8C1094A9402380D9835ECEDBCC677254686B7391027A20DA10FC8BF24DAE5"
+  },
+  {
+    "path": "examples/test-rig/figure.tsx",
+    "sha256": "2DBAEF167B9A6A96DE74357FC57AE2A650159007852D3D4E8C471B8837E463A9"
+  },
+  {
+    "path": "examples/test-rig/geometry.ts",
+    "sha256": "B8C275EB58B093A85C312F90DC5D79FD9D9A93AE266E42A8A6FA7F6F9AAEB571"
+  },
+  {
+    "path": "examples/test-rig/live.tsx",
+    "sha256": "46A4C338A2805FC0078A20D6F4E12D9DE20FC4145EC051FFCE3964B164C5A7DA"
+  },
+  {
+    "path": "examples/test-rig/pose.ts",
+    "sha256": "380E1D07AFCAA3A4E2CD1B13556500F2B336E354FA1C369918B3173F0C9D0866"
+  },
+  {
+    "path": "examples/test-rig/rig.ts",
+    "sha256": "9672431D6982ACAA7B6F28E88E1371443BD6A10FB906FF52FC7BDB0F5FD88B05"
+  },
+  {
+    "path": "examples/test-rig/stretch.css",
+    "sha256": "DD15F4582B5FB9B228DC7E32EF57DBCBA0129DAD38B36E5707247EEB7A2ABE8B"
+  },
+  {
+    "path": "examples/test-rig/view.ts",
+    "sha256": "5465A3E122C2074F8DE755B874C7BDB783B365E4140E3E741FC91A32CD69500C"
+  },
+  {
+    "path": "examples/turning-dial/build.mjs",
+    "sha256": "DCB1B2A1FEC2C98C2CEA401C6A5B1C7E6545DA3B5EA08433CFD72A7F27A49248"
+  },
+  {
+    "path": "examples/turning-dial/dial.css",
+    "sha256": "769FC9596DCD2BBC46823D6E2816A3E584B52E0A6DB359D93BEDCE16F354BEDD"
+  },
+  {
+    "path": "examples/turning-dial/live.js",
+    "sha256": "E872F0D930BA583CE7C4C252A3767AA6B9F6CD1F97FE6DDDB212653A0579B41F"
+  },
+  {
+    "path": "examples/turning-dial/stress.mjs",
+    "sha256": "6D3AEC19D8CE6DAADFFE15113DA9415C2FE084C6407D1BB7FB4B5FEC86330314"
+  },
+  {
+    "path": "examples/turning-dial/turning-dial-light.html",
+    "sha256": "7873A4873E4F1A204CA59691765915F155F44095C2C290730AA2B915B4C88C9E"
+  },
+  {
+    "path": "examples/turning-dial/turning-dial-verify-light.html",
+    "sha256": "7516D25E04C8A2C7D3ABC7BF19E78985CFCA2A2F37E1DE72740808A977346366"
+  },
+  {
+    "path": "examples/turning-dial/turning-dial.html",
+    "sha256": "E477D45029568C45966BF2E4AE2353265E065B90663877E8C21DE5B6741E4E90"
+  },
+  {
+    "path": "examples/turning-dial/turning-stress-light.html",
+    "sha256": "E175E82F1BBA087BB6031E375FB5DA386F4F779E89E91A7864F7FC298B8B14E3"
+  },
+  {
+    "path": "kit/audit.mjs",
+    "sha256": "90C5BB4A86F108E8A1D3211DBEA326BED16ACD887C3438810EA29200A2CDE28D"
+  },
+  {
+    "path": "kit/canvas-painter.mjs",
+    "sha256": "1918DB10279C9D9DF87D7DF52C7ED8C2DE8ACD0BBCE214C8F2115A39E7F955AC"
+  },
+  {
+    "path": "kit/gl-shared.mjs",
+    "sha256": "8C3773CF3E15844DF332DB3BA55AF940186EDB2227201E5839347ECC390C039C"
+  },
+  {
+    "path": "kit/gl.mjs",
+    "sha256": "17A477411E0B9FCB8E84E718094EAEFA6BE2C0B7D6CE15EE03FE8E252944130A"
+  },
+  {
+    "path": "kit/iso-kit.mjs",
+    "sha256": "6D3ECC725D30C3B0346DA309CF61DFA5A65017C23620BBD4093009D4FB104018"
+  },
+  {
+    "path": "kit/iso-kit.ts",
+    "sha256": "E9FC988C61A11BFAC1F097E62419915EA86B2130AB091F1B50C0E019C907E253"
+  },
+  {
+    "path": "kit/iso.css",
+    "sha256": "EF19BAC5A42BA9BE42B56B2C1CF7FC7E21D332A8060765E9CA1D987B8AB23924"
+  },
+  {
+    "path": "kit/lathe.mjs",
+    "sha256": "A4E7E974B1A37E603AD2B76363B6F9815CC101DFFF0AD277A5D4E8F1DC56FCCB"
+  },
+  {
+    "path": "kit/react/draw.tsx",
+    "sha256": "D5389BD78AA3D5424A37B1CE6F635BD102EB86FAF27D064B10957716278A631C"
+  },
+  {
+    "path": "kit/react/live.tsx",
+    "sha256": "6D01FA12BCA4EC14D1B7D7D5331D18A997DD3EE131D59DD57F83B932A1705F42"
+  },
+  {
+    "path": "kit/tube.mjs",
+    "sha256": "BCB3CC360F6D83E6A5753F4C464B4587AB7965028B05A5D58E285ABCE58667C9"
+  },
+  {
+    "path": "kit/turn-audit.mjs",
+    "sha256": "E118B838C00621EB5D86409552B75B50D02C303EAEDEFC008146A7C62C2EAEFD"
+  },
+  {
+    "path": "kit/turn-build.mjs",
+    "sha256": "B95D76F9181703508B5BB758973BF004EB92D298A01E0E5FF5457F830C183888"
+  },
+  {
+    "path": "kit/turn-fixed.mjs",
+    "sha256": "7429B46EB7673AEFB6ED90ADEAF130C1DAFE8E32AF038CBDE24A04E693D13FC7"
+  },
+  {
+    "path": "kit/turn.mjs",
+    "sha256": "CB4B530B5E1750BA0E4FD2367D5F25E00195C0136672AA2ECD665C0622FFD1A2"
+  },
+  {
+    "path": "references/3d.md",
+    "sha256": "DE58DA5415B4C9FE7712B5B71E0868C4D36363D54E4E32D98A6B016363554536"
+  },
+  {
+    "path": "references/craft.md",
+    "sha256": "38761FA9B81D66B30E50B05488501D4815830D3627F153D60F76CA783F598936"
+  },
+  {
+    "path": "references/kit.md",
+    "sha256": "684672E069FDB52735EFABC3F4310DEDD840D0C8066A8DC7784BE2B7E656BE71"
+  },
+  {
+    "path": "references/motion.md",
+    "sha256": "DDA401CA1B4661A5F0B7C1E33DAC6E7E4B8C13D51CA5D9312123A5C02DAB320B"
+  },
+  {
+    "path": "references/publish.md",
+    "sha256": "57790E740662BC8F2044BA5F0385598BAD955D6A38DD2A47D56D644F21D8DEB8"
+  },
+  {
+    "path": "references/react.md",
+    "sha256": "76B5CEE6E0A7513E3C77A832E3F58B1343806597D469774E1749F141525801FD"
+  },
+  {
+    "path": "references/verify.md",
+    "sha256": "FB81437FC5D75094A34432EB6F545644AA228E15173A27D08B3CACE912033561"
+  },
+  {
+    "path": "references/walkthrough.md",
+    "sha256": "4D157E0169080A6ED44D5B06DE0A5DE2931BAF3D0FAC30283D2644DD66506DFA"
+  },
+  {
+    "path": "references/webgl.md",
+    "sha256": "FB4E2421C6A705D4AD849C8E516731EBC958BC5FF0855548FF58232B0AA01923"
+  },
+  {
+    "path": "scripts/audit-affine-bounds.test.mjs",
+    "sha256": "038E0A879363C4B0D2C7146A62065B09F2973210114928D5005E9082219654D2"
+  },
+  {
+    "path": "scripts/audit-cache.test.mjs",
+    "sha256": "00B49601C068897E94BF8309D652BB55595E541283C510BBA34957C457EDD57E"
+  },
+  {
+    "path": "scripts/audit-clearance-envelope.test.mjs",
+    "sha256": "FFA8321D25996AC165DD1FDB6473A903C1C6F03B86996B2FEF6978203B8F2BD8"
+  },
+  {
+    "path": "scripts/audit-empty-clipping.test.mjs",
+    "sha256": "A28384CCBF303ACC32F7788753459A7338C94BC74EE5EFE70762DAA75A62C8CB"
+  },
+  {
+    "path": "scripts/audit-order-convergence.test.mjs",
+    "sha256": "9AD7B9A645D9E90A788E561484013B0FDEFB1A8ABD38FCB160F5D1A6464BE278"
+  },
+  {
+    "path": "scripts/audit-path-origin.test.mjs",
+    "sha256": "1E5917A4A3BC337AA4497E5717DE47B198DB8FC9538D5F10D40A788F5F821D37"
+  },
+  {
+    "path": "scripts/audit-profile.test.mjs",
+    "sha256": "80179AE38AFA6E58ED254A597DAEEE27240E85F87D1BBD0421DEF4E347EC37C0"
+  },
+  {
+    "path": "scripts/audit-projection.test.mjs",
+    "sha256": "0CD790E0DFC64633019DB3233B87FEC823C6148037D9335E1C2B16EA1C722DB6"
+  },
+  {
+    "path": "scripts/audit-slide-clearance.test.mjs",
+    "sha256": "007F68AA5262EAE40ACEEF00EEC91E4D5BE0164BD5FB9377680996164FF9AC19"
+  },
+  {
+    "path": "scripts/audit-svg-attributes.test.mjs",
+    "sha256": "2D2A949639F90D6328EEEA401F6B7F3A3DC1FCC17F1D46CBE2DE208AFC3C6533"
+  },
+  {
+    "path": "scripts/audit-taper.test.mjs",
+    "sha256": "EA4415EF743EFC4BA1393457C571CDFC2B91BFD5EA931AE32829926C80AED487"
+  },
+  {
+    "path": "scripts/capture-current-geometry.test.mjs",
+    "sha256": "AD0C0555E693C8C9E2B14A3098B91ACD04DF6E7C45779615AAA86E81BE452756"
+  },
+  {
+    "path": "scripts/capture-selector.test.mjs",
+    "sha256": "046CE21A686E99C1A5A760F529B999CDCA5B7F504961784BC087395B0B586EFF"
+  },
+  {
+    "path": "scripts/capture.mjs",
+    "sha256": "B000F78CF72AEE3FB2096A74527A8EF87D9022FB28FECC35D3F232CF3A6E6D8F"
+  },
+  {
+    "path": "scripts/capture.test.mjs",
+    "sha256": "319AED308DED5EB4137C8D633720A9254D8C5F35A8ADCC1E883066E6C983ED62"
+  },
+  {
+    "path": "scripts/chrome-port.mjs",
+    "sha256": "6775D3D389D26F37A52BE8358AA88D1DC0ADED63CB24AE20A936505A192E5D9D"
+  },
+  {
+    "path": "scripts/chrome-startup.test.mjs",
+    "sha256": "BD3C0EB4B699EBFBFD4EFA5920ACF386F31876ED490AAEE839886DD8ED4CF797"
+  },
+  {
+    "path": "scripts/drive-actions.test.mjs",
+    "sha256": "EF415F9860E656DCF0D1C95B48AEDF974CF311AA31E547403F7684C59D676AA3"
+  },
+  {
+    "path": "scripts/drive-async-until.test.mjs",
+    "sha256": "86058CB8456C1C9C2822C7A3ECE698E2DBA40A1A01F2746668CFE2E2CB193435"
+  },
+  {
+    "path": "scripts/drive-turn-controller.test.mjs",
+    "sha256": "2B7DEDA0E9706208AE9C21CC2ADA09D623EEBEE9E0DFC512503B8DDBEB4DDCAC"
+  },
+  {
+    "path": "scripts/drive.mjs",
+    "sha256": "6376EBDAE1EBA1EC33DDDAC198CA3B1852F35013C7A3F8CB09642B26B7E5E452"
+  },
+  {
+    "path": "scripts/drive.test.mjs",
+    "sha256": "C4F354F8C79E766858D913321FCB84786355E814CA2E096992A088B2181529F0"
+  },
+  {
+    "path": "scripts/enter-key.test.mjs",
+    "sha256": "2592318F2B41735E4FF8ED2EDCBC3ABEE46D81F9184B02DD99C121D8900D3838"
+  },
+  {
+    "path": "scripts/fidelity-cut.test.mjs",
+    "sha256": "7F3518EBA374167ADA79CC73970CC9557EF48FAA3E8B390326589C67AB989787"
+  },
+  {
+    "path": "scripts/fidelity-tube-coverage.test.mjs",
+    "sha256": "EEF7300EA786D82268811CC4E4153C1DE913BAE17CEC58BD4A28F64EA875C525"
+  },
+  {
+    "path": "scripts/fingerprint.mjs",
+    "sha256": "1582728C6F70B340F8FDDA28F287E6F8D45E291AB739EF9FF527A5374F7B1654"
+  },
+  {
+    "path": "scripts/inline-kit.mjs",
+    "sha256": "01E08DF7C2556CE52A7E8ED9009A332036B209AB7E42389874AF2A65FDA6E9DB"
+  },
+  {
+    "path": "scripts/line-ends.mjs",
+    "sha256": "E8A121473DFE62245EAB2116E8FB6B4D8ED86E3FE29EA50A90E86FFED335B1CD"
+  },
+  {
+    "path": "scripts/lines-arcs.test.mjs",
+    "sha256": "AE915157D4BBDFE8E4AF031C0E2E5F5F566C938BA7BB88884AE377489AFF540E"
+  },
+  {
+    "path": "scripts/lines-bezier.test.mjs",
+    "sha256": "7A95169325FED35EECB0C7AEFCB806A48BFD09EABA3DF5461DC2E30C5D0695F4"
+  },
+  {
+    "path": "scripts/lines-round.test.mjs",
+    "sha256": "7A012C3EB010B7F8082EE49CE939D6F35F384D188D897E3FD3708682C5D3A657"
+  },
+  {
+    "path": "scripts/lines-rounded-rect.test.mjs",
+    "sha256": "88D0A27B047895A00F5654F59D93C775FB8312A5C28BE3B47B5E673D80EFE5B6"
+  },
+  {
+    "path": "scripts/lines.mjs",
+    "sha256": "B0CA73AB3A0D1CD4A28FDA933496CBD7384EF315D821B5D2FFFAE1C704CE79CC"
+  },
+  {
+    "path": "scripts/lines.test.mjs",
+    "sha256": "82931231D33D977BCC44C54B05BDB7B78C4DDEBC422848AB59539018DD43583A"
+  },
+  {
+    "path": "scripts/navigation.test.mjs",
+    "sha256": "B9BD9D7360735E178B24E086E5C875E1703E3E0593E7DDFF5F10FE0B4F0F7587"
+  },
+  {
+    "path": "scripts/orbit-sampling.test.mjs",
+    "sha256": "ED6CE6B0DD32F6C7AB51A5A50EA2DD4B920858FF35D725BEA22BEE79E323B97A"
+  },
+  {
+    "path": "scripts/publish.mjs",
+    "sha256": "9F6ADDF3B1C8BFB1BCB1DE3402D33FA22A9DFD3606B72B487A0FDF40BD0677D6"
+  },
+  {
+    "path": "scripts/publish.test.mjs",
+    "sha256": "85BD3761918CE75095361205D3E691D817621C7D10DB95558D46CFA9DFA37431"
+  },
+  {
+    "path": "scripts/react-dots-opacity.test.mjs",
+    "sha256": "E7D2B5386F397EFE4197B4607F2131170BF88DC52CCC3CFCFEA2677F28D41AEC"
+  },
+  {
+    "path": "scripts/react-readout-first-write.test.mjs",
+    "sha256": "088A2D29D67E9638F7E43E9B5204C027566934D38302C0EE5E406752F2A4780A"
+  },
+  {
+    "path": "scripts/react-readout-target.test.mjs",
+    "sha256": "1354DC4A3FC44063034BD586B7E0E1E589804C65E47EE522C5C553DBDED9E05D"
+  },
+  {
+    "path": "scripts/react-solid-seamless.test.mjs",
+    "sha256": "F45927C14DD6023EEC7109DA5DB10CDDD46CD46B21F58675A6D4DC6CA12122B0"
+  },
+  {
+    "path": "scripts/react-visibility-target.test.mjs",
+    "sha256": "78C630AA974D2FBD04CB096A95B528D64D3027E2A9666B85E9D7A50965160925"
+  },
+  {
+    "path": "scripts/session.mjs",
+    "sha256": "8896EA1587A5A612A20DB7A7A9310A53387D6EEF640277834F7BAC7E69109302"
+  },
+  {
+    "path": "scripts/session.test.mjs",
+    "sha256": "200FE708D40646B5EE24451E561744AC281E1CF0BF2C75C233D340EEED304F79"
+  },
+  {
+    "path": "scripts/turn-bench.mjs",
+    "sha256": "D86CD53E3702FA92E22B4052EE9BF47DA10FD0A71401FE477BD8DA2FE30B1631"
+  },
+  {
+    "path": "scripts/turn-check.mjs",
+    "sha256": "B08EC017C59288D728F17074EB82D5DA518F092C860951750523C1E7C07E6DF9"
+  },
+  {
+    "path": "scripts/turn-fidelity.mjs",
+    "sha256": "4B8E7AD29D0A255D2DD5E7F396BCE11F13E5BAA5EB682ADC68025D4EE16A1FB7"
+  },
+  {
+    "path": "scripts/turn-group-reference.test.mjs",
+    "sha256": "BFAC2F910C80C7FCFBA9E4861391552000A0F25414AE86576A9EF9EF46291412"
+  },
+  {
+    "path": "scripts/turn-split-owner.test.mjs",
+    "sha256": "829FEBF610BA09CDCA651FBD86340F13932F241B4E3525A3D8566AC70D75A69D"
+  },
+  {
+    "path": "tests/fixtures/react-dots-dark.png",
+    "sha256": "F2E7655868E8564D81D274464C618CB330A603459A5FE63BF0BD22992E9C396D"
+  },
+  {
+    "path": "tests/fixtures/react-dots-light.png",
+    "sha256": "DF72B8D04FD82BF1A1F63B29EA1676EAD0570F9B36D55057D8B886087D869543"
+  },
+  {
+    "path": "tests/fixtures/react-solid-dark.png",
+    "sha256": "529B58A497268540C2D74B590691F65605BA5D1882566D0462FF984E7A9248E1"
+  },
+  {
+    "path": "tests/fixtures/react-solid-light.png",
+    "sha256": "5B344EC9017D06267531B8D01AD3B88062FB8003CD77AD90ECFF37319C8DD085"
+  }
+]

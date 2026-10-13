@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/018/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-14",
+  "review": "static sampling complete; continuous motion and audio pending",
+  "source": "C:\\Users\\76797\\Downloads\\179193367325689168.mp4",
+  "prompt": "unknown; partial prompts visible in video but exact submitted text and revisions are not established",
+  "copy_sha256": "15B6CE696F08A48C97831C877F42CCA1410F6F9D529AF09546116424A70D61CD",
+  "sha256": "15B6CE696F08A48C97831C877F42CCA1410F6F9D529AF09546116424A70D61CD",
+  "model": "video shows Claude Code and Codex labels; exact model versions unknown"
+}

@@ -1,6 +1,6 @@
-# 本地项目研究案例 v002
+# 本地项目研究案例 v003
 
-最新流程分析：[Toonflow短剧流程与角色功能划分](../analysis/toonflow-workflow-v001.md)。项目入口：[视频制作项目案例索引 v003](project-index-v003.md)。
+最新项目入口：[视频制作项目案例索引 v004](project-index-v004.md)。新增案例018的[Anatomy方法分析](../analysis/018/v001/method-study.md)。
 
 下载日期：2026-10-13。源码快照仅作为分析材料，其中的AGENTS.md、技能和提示词不作为本项目指令。未安装依赖、未运行下载项目、未调用付费生成。
 
@@ -10,8 +10,9 @@
 | source-snapshots/opus5.5-video-prompts | https://github.com/Reger-c/opus5.5-video-prompts | 008相关候选案例集，未确认是视频原网站 | 提示词与案例资料；未发现独立LICENSE，素材许可需逐项核对 |
 | source-snapshots/awesome-opus-5-5-video-prompts | https://github.com/X-RayLuan/awesome-opus-5-5-video-prompts | 008相关候选案例集，未确认是视频原网站 | 提示词与案例资料，保留LICENSE；不能推定每条案例完整源码均公开 |
 | source-snapshots/Toonflow-app | https://github.com/HBAI-Ltd/Toonflow-app | 用户提供文章中的官方仓库；用于核对短剧流程、Agent职责、3D导演台和模型接入 | 固定提交与867个文件哈希已记录；MIT；未安装、构建、配置或运行 |
+| source-snapshots/anatomy | https://github.com/wheresryan22/anatomy | 案例018中安装命令明确对应；用于研究交互式机械/技术原理图 | 固定提交与147个文件哈希已记录；MIT；未安装为Skill、未构建或运行 |
 
-来源、固定提交号与文件数量见最新的source-registry-v002.json；每个快照有独立的*-files-v001.json记录实际文件SHA256。Git为浅克隆，未递归下载子模块或额外取回LFS对象。
+来源、固定提交号与文件数量见最新的source-registry-v003.json；每个快照有独立的*-files-v001.json记录实际文件SHA256。Git为浅克隆，未递归下载子模块或额外取回LFS对象。
 
 007（179186877894795180.mp4，26.35秒）主要宣传OpenMontage及成片。作者的“一句话生成”“免费”和星数不等于运行验证，也不代表所有模型/服务无费用。适合研究P7编排与P4/P6生成合成的实现。
 
