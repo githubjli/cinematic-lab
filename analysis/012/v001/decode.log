@@ -1,0 +1,36 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'references/012/original.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+    description     : Tencent CAPD MTS (T-tech)
+  Duration: 00:03:22.01, start: 0.000000, bitrate: 758 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, progressive), 1280x720, 673 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (HE-AACv2) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 78 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> mjpeg (native))
+Press [q] to stop, [?] for help
+Output #0, image2, to 'analysis/012/v001/frames/frame_%03d.jpg':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    description     : Tencent CAPD MTS (T-tech)
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: mjpeg, yuv420p(pc, progressive), 720x405, q=2-31, 200 kb/s, 0.33 fps, 0.33 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 mjpeg
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+frame=   48 fps=0.0 q=1.6 size=N/A time=00:02:24.00 bitrate=N/A speed= 283x    
+[out#0/image2 @ 0000026b449bfb80] video:2832KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   67 fps=0.0 q=1.6 Lsize=N/A time=00:03:21.00 bitrate=N/A speed= 288x    

@@ -1,0 +1,26 @@
+# Local media, extracted visual evidence, and runtime dependencies
+.tools/
+cases/source-snapshots/
+**/frames/
+**/contact_*.jpg
+**/minutes_*.jpg
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.exe
+*.dll
+*.zip
+__pycache__/
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example

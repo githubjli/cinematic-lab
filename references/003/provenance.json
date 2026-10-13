@@ -1,0 +1,12 @@
+{
+  "source": "C:\\Users\\76797\\Downloads\\179186707955798218.mp4",
+  "model": "unknown",
+  "copy": "references/003/original.mp4",
+  "copy_sha256": "6B15AC2AA80551FA3CF5669D0AA11C6195D301A0C7F485C20EF48E5C443977CC",
+  "parameters": "unknown",
+  "upload_order": "unknown; local import order is not generation upload order",
+  "date": "2026-10-13",
+  "sha256": "6B15AC2AA80551FA3CF5669D0AA11C6195D301A0C7F485C20EF48E5C443977CC",
+  "review": "pending",
+  "prompt": "unknown"
+}

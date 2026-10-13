@@ -1,0 +1,82 @@
+[
+  {
+    "path": "cases.json",
+    "sha256": "0EEC7B2F0D4816D847602781049ED6A1166D6ED48C06B38802B0D1EDFFDFFC35"
+  },
+  {
+    "path": "README.md",
+    "sha256": "6417936840B888CA3A0EF4F5CB5EDBA140CCE364EC933419DADB31CFC99FE4B7"
+  },
+  {
+    "path": "prompts\\01-inference-startup-launch.md",
+    "sha256": "C43440EF1702BD7810692C890983DCA2FCDF792A5D6C99EB1F5780ECCF71D092"
+  },
+  {
+    "path": "prompts\\02-motion-showreel-15s.md",
+    "sha256": "D33070C4A5A080D29073E5D56C9D0AC4105F79D90EFCF8D438A7741C11F0C7B2"
+  },
+  {
+    "path": "prompts\\03-china-5000-years-lineart.md",
+    "sha256": "42BEC3FF77A55DF3A3AF492F61EA977AAC025CF4B37730C8EACD37180A8CCD83"
+  },
+  {
+    "path": "prompts\\04-opus-1984-ad.md",
+    "sha256": "0657CE09947432C9E46344942E1B143F0FA9F1C572C500FFB4FB318B70A37DD8"
+  },
+  {
+    "path": "prompts\\05-transformer-explainer-js.md",
+    "sha256": "D43A30AC524A6A4E50BC933FE74E3243C1AA56B1899F08220A5E96952B130BBE"
+  },
+  {
+    "path": "prompts\\06-room-to-quarks-zoom.md",
+    "sha256": "43495317068AB41462900585DBDDCAAE9D7B41E60CE685A45706C674F6C951BE"
+  },
+  {
+    "path": "prompts\\07-business-explainer-30s.md",
+    "sha256": "CCC0FC6D62083034D2D712C8E0E142D898CF7796CAE92D215420E28680B449AF"
+  },
+  {
+    "path": "prompts\\08-negroni-recipe-explainer.md",
+    "sha256": "406D9E01ADE3368ECC32FF316E9898F0ED4FEEEF3F262A5B41324D1B27A879C9"
+  },
+  {
+    "path": "prompts\\09-atmospheric-circulation-tts.md",
+    "sha256": "8E1C21D9DE1D01941B9EE1FC1C4F5051AD282B387384178D992364E3F5F05929"
+  },
+  {
+    "path": "prompts\\10-talking-head-to-lineart.md",
+    "sha256": "F32656C54DF99B9023C21603FD8D5433B7C244E04CE46BA18451E25E82AE1A1A"
+  },
+  {
+    "path": "prompts\\11-austerlitz-film.md",
+    "sha256": "89DBD958CEF1BA157308C2F2B48C56A2A172B20B9F6FCABE3E69C888DF5EB5AF"
+  },
+  {
+    "path": "prompts\\12-remotion-app-promo-1.md",
+    "sha256": "FC75C03A9E7889045A181A0F4947491A7B721F9A1764B53B01C2AAEC21FE4AF8"
+  },
+  {
+    "path": "prompts\\13-remotion-app-promo-2.md",
+    "sha256": "2F6EA983EACF6C140414188E494C40D10AD5DE6483FC97084187BEA4CA28BEEC"
+  },
+  {
+    "path": "prompts\\14-saas-launch-real-assets.md",
+    "sha256": "7784E4BEEA21C5D8E37D8CD8561B48D4723C17F4FBD54B2E15BA25B426FB4F96"
+  },
+  {
+    "path": "prompts\\15-ui-morph-loop.md",
+    "sha256": "B89A3EEB9BCE64BBD8F9CD3B0358BDE84664F6B17D27738579C66E123E3CA59D"
+  },
+  {
+    "path": "prompts\\16-high-end-product-video.md",
+    "sha256": "51ADC5590E44CA809AA75A33AD1318CC11E6E611EAB5C0412C9F993452CF7299"
+  },
+  {
+    "path": "prompts\\17-pixel-wizard.md",
+    "sha256": "DB49B28EE744892BCA150983B4576357916F67DBD816C7287D80A7906ACE9BB5"
+  },
+  {
+    "path": "prompts\\18-prehistoric-island-threejs.md",
+    "sha256": "84CF88E0E6A0788484C6E6F3C8EA0A094BB45CC22C1896B83B154428C33D94C5"
+  }
+]

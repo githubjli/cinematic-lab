@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-13",
+  "decoder": "imageio-ffmpeg 0.6.0 / bundled ffmpeg v7.1",
+  "scope": "AI filmmaking workflow and method analysis",
+  "local_import_order": [
+    "002",
+    "003",
+    "004",
+    "005"
+  ],
+  "cases": [
+    {
+      "case": "001",
+      "sha256": "CAEA9AFBD6A19A39147CAD76D319D34E8D360BB06C42F67ED12B9B3F7D5800D5",
+      "sample_count": 86,
+      "sampling": "fps=1,scale=640:-1",
+      "review": "static sampling reviewed; continuous motion and audio not reviewed",
+      "generation_prompt": "unknown",
+      "generation_upload_order": "unknown",
+      "generation_parameters": "unknown",
+      "paid_generation_submitted": false
+    },
+    {
+      "case": "002",
+      "sha256": "03AA978874BD366C31C410EDBD72B138141DD25E6A320DE7295214CC364EAAA6",
+      "sample_count": 2946,
+      "sampling": "fps=1/3,scale=960:-1",
+      "review": "static sampling reviewed; continuous motion and audio not reviewed",
+      "generation_prompt": "unknown",
+      "generation_upload_order": "unknown",
+      "generation_parameters": "unknown",
+      "paid_generation_submitted": false
+    },
+    {
+      "case": "003",
+      "sha256": "6B15AC2AA80551FA3CF5669D0AA11C6195D301A0C7F485C20EF48E5C443977CC",
+      "sample_count": 10,
+      "sampling": "fps=1/3,scale=960:-1",
+      "review": "static sampling reviewed; continuous motion and audio not reviewed",
+      "generation_prompt": "unknown",
+      "generation_upload_order": "unknown",
+      "generation_parameters": "unknown",
+      "paid_generation_submitted": false
+    },
+    {
+      "case": "004",
+      "sha256": "3700FBFCAA260DF5754541ABCBCCB8F8A7FB779BDC9010CD797482A3C396D5BB",
+      "sample_count": 16,
+      "sampling": "fps=1/3,scale=960:-1",
+      "review": "static sampling reviewed; continuous motion and audio not reviewed",
+      "generation_prompt": "unknown",
+      "generation_upload_order": "unknown",
+      "generation_parameters": "unknown",
+      "paid_generation_submitted": false
+    },
+    {
+      "case": "005",
+      "sha256": "17A9F0B8DE06F9F5B8298DC9DFC0446CB4877645AC51633749F6959A320EBFF6",
+      "sample_count": 93,
+      "sampling": "fps=1/3,scale=960:-1",
+      "review": "static sampling reviewed; continuous motion and audio not reviewed",
+      "generation_prompt": "unknown",
+      "generation_upload_order": "unknown",
+      "generation_parameters": "unknown",
+      "paid_generation_submitted": false
+    }
+  ]
+}
