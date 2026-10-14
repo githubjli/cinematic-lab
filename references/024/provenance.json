@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/024/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-14",
+  "review": "static sampling complete; continuous motion, full narration transcription and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\179193673725541787.mp4",
+  "prompt": "unknown",
+  "copy_sha256": "2222902E85D968C64CEB5D2C40C52EB73E7977CEC79A18196B194CC37D7AC94D",
+  "sha256": "2222902E85D968C64CEB5D2C40C52EB73E7977CEC79A18196B194CC37D7AC94D",
+  "model": "unknown; the video demonstrates an Agent/Skill workflow but does not establish the exact model or submitted prompt"
+}
