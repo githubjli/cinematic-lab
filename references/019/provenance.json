@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/019/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-14",
+  "review": "static sampling complete; continuous motion and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\stodownload (14).mp4",
+  "prompt": "unknown",
+  "copy_sha256": "8760E6537DA6E6307E180A338C3B29678B940BCA505513A1110CE7782084A192",
+  "sha256": "8760E6537DA6E6307E180A338C3B29678B940BCA505513A1110CE7782084A192",
+  "model": "unknown; video overlays mention GPT 6 Astra and Claude opus5.5 but do not establish the sound-generation endpoint"
+}
