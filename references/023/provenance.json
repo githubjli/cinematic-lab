@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/023/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-14",
+  "review": "static sampling complete; continuous motion, narration transcription, mathematical source review and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\179193630896516481.mp4",
+  "prompt": "unknown",
+  "copy_sha256": "9E68DDAD16A2EDEC7F001C063F566CCFB8A3C0A664E0ACB2B9D1A81716E87DE2",
+  "sha256": "9E68DDAD16A2EDEC7F001C063F566CCFB8A3C0A664E0ACB2B9D1A81716E87DE2",
+  "model": "unknown; container metadata states Made with Remotion 4.0.529, which identifies the renderer but not the AI model"
+}
