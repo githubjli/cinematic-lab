@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/027/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-19",
+  "review": "static sampling complete; continuous gesture latency, motion stability, full narration transcription and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\179237598693805925.mp4",
+  "prompt": "unknown",
+  "copy_sha256": "850132B09AC5E664B1FBBDE913DBEA704299E267E7E9505E0609BA3D343FD9D8",
+  "sha256": "850132B09AC5E664B1FBBDE913DBEA704299E267E7E9505E0609BA3D343FD9D8",
+  "model": "unknown; the visible 21-point hand overlay is consistent with a hand-landmark pipeline but does not identify the implementation"
+}

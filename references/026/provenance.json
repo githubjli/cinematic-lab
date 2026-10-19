@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/026/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-19",
+  "review": "static sampling complete; continuous motion, full narration transcription and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\stodownload (19).mp4",
+  "prompt": "unknown; only fragments displayed in the video were visible",
+  "copy_sha256": "4916759AE625471747F4DE335C64284ECA13EF73765D9B3039A352A6C10B821B",
+  "sha256": "4916759AE625471747F4DE335C64284ECA13EF73765D9B3039A352A6C10B821B",
+  "model": "video visibly compares labels Opus 5.5 and GPT 6 Astra; exact service versions, settings and generated source are unknown"
+}

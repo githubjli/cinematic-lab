@@ -2,7 +2,7 @@
 
 独立写实电影风格项目，创建于2026-10-13，与animation-lab同级。
 
-当前已有：24个参考视频原始副本及SHA256来源记录、静态采样、统一分析方法和跨案例流程分类。
+当前已有：27个参考视频原始副本及SHA256来源记录、静态采样、统一分析方法和跨案例流程分类。
 参考视频、抽帧图片、运行工具及第三方源码快照保留本地；Git仅保存文档、来源/哈希记录和分析文字日志。克隆仓库不会自动获得本地视频。
 当前研究范围：拆解参考视频中提到的AI制作技术流程与方法。原创故事和生成不属于当前授权工作。
 
@@ -39,6 +39,13 @@
 - [案例024：Vibe Knowledge Film知识短片Skill](analysis/024/v001/method-study.md)
 - [可复用技巧索引 v004](docs/workflow-techniques-v004.md)
 - [工具选型补充 v006](docs/tool-selection-addendum-v006.md)
+- [案例025：音乐分轨与按镜头重编配](analysis/025/v001/method-study.md)
+- [音乐分轨制作与使用流程 v001](docs/music-stem-workflow-v001.md)
+- [可复用技巧索引 v005](docs/workflow-techniques-v005.md)
+- [工具选型补充 v007](docs/tool-selection-addendum-v007.md)
+- [案例026–027：节拍驱动MV与手势驱动交互](analysis/cases-026-027-v001.md)
+- [可复用技巧索引 v006](docs/workflow-techniques-v006.md)
+- [工具选型补充 v008](docs/tool-selection-addendum-v008.md)
 
 尚未完成连续音画审查、完整逐字转录或独立生成复现；文档明确标记证据边界。
 不得将抽帧视为运动验证；不得从参考片猜测模型、提示词或参数。当前未生成或提交任何新素材。

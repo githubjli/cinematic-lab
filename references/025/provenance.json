@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/025/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-19",
+  "review": "static sampling complete; continuous motion, full narration transcription and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\stodownload (18).mp4",
+  "prompt": "unknown",
+  "copy_sha256": "CBCFA965926BE3285F2959E46B3478994C81F39CF1FB44E755B76A37DD0D5C19",
+  "sha256": "CBCFA965926BE3285F2959E46B3478994C81F39CF1FB44E755B76A37DD0D5C19",
+  "model": "unknown; the visible catalog stems do not establish that AI source separation was used"
+}
