@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/029/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-19",
+  "review": "static sampling complete; full narration transcription, continuous motion, sound and independent reproduction pending",
+  "source": "C:\\Users\\76797\\Downloads\\stodownload (20).mp4",
+  "prompt": "unknown; several prompt fragments are visible but the exact complete submissions and context are unavailable",
+  "copy_sha256": "1B33463925E74B1198195AF6FAC8F481C659C549BFE40BE1424DB6C2F9AE44E1",
+  "sha256": "1B33463925E74B1198195AF6FAC8F481C659C549BFE40BE1424DB6C2F9AE44E1",
+  "model": "the video labels Claude Code / Opus 5.5; exact build, service state, tools and settings are not independently verified"
+}
