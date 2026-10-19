@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/028/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-19",
+  "review": "static sampling complete; only the visible first nine storyboard rows were analyzed; full narration transcription, continuous motion and critical listening pending",
+  "source": "C:\\Users\\76797\\Downloads\\179240011150084867.mp4",
+  "prompt": "unknown",
+  "copy_sha256": "37780CA99A6A0C2CF0CCC06848BD21B07CDBE22ED22048C195B74516FF9A03CE",
+  "sha256": "37780CA99A6A0C2CF0CCC06848BD21B07CDBE22ED22048C195B74516FF9A03CE",
+  "model": "unknown; the video shows a brand-film storyboard and result comparison but does not identify generation or editing tools"
+}
