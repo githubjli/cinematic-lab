@@ -1,0 +1,12 @@
+{
+  "upload_order": "unknown",
+  "copy": "references/030/original.mp4",
+  "parameters": "unknown",
+  "date": "2026-10-21",
+  "review": "static sampling complete; full narration transcription, continuous motion, sound and independent model evaluation pending",
+  "source": "C:\\Users\\76797\\Downloads\\179253898646295163 (1).mp4",
+  "prompt": "unknown",
+  "copy_sha256": "74929399F762E2E2673548FF126669E14820FB4BD665715EB8304E86F82E76FE",
+  "sha256": "74929399F762E2E2673548FF126669E14820FB4BD665715EB8304E86F82E76FE",
+  "model": "video identifies Skyfall AI SKY-001; exact service build, benchmark inputs and parameters are unknown"
+}
