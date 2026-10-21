@@ -54,6 +54,8 @@
 - [案例030：SKY-001工程世界模型](analysis/030/v001/method-study.md)
 - [工具选型补充 v009](docs/tool-selection-addendum-v009.md)
 - [可复用技巧索引 v009](docs/workflow-techniques-v009.md)
+- [开源机械结构与CAD资产库选型 v001](docs/mechanical-asset-libraries-v001.md)
+- [工具选型补充 v010](docs/tool-selection-addendum-v010.md)
 
 尚未完成连续音画审查、完整逐字转录或独立生成复现；文档明确标记证据边界。
 不得将抽帧视为运动验证；不得从参考片猜测模型、提示词或参数。当前未生成或提交任何新素材。
