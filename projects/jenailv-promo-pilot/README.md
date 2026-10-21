@@ -1,6 +1,6 @@
 # 金耐力工业宣传片流程测试
 
-状态：方案与制作契约已建立，尚未进行付费生成、GPU生成或成片渲染。
+状态：方案与制作契约已建立；用户已确认官网素材获授权用于本案例。尚未进行付费生成、GPU生成或成片渲染。
 
 本项目以[金耐力官网](https://www.jenailv.net/)公开内容为研究输入，测试“事实核验 → 工业视觉设计 → 最难镜头Demo → 全片制作 → 独立盲审”的本地宣传片流程。官网文字和图片只作为内部分析参考；正式公开使用前仍需品牌方确认事实、商标、图片、视频、CAD和音乐等权利。
 
@@ -10,6 +10,10 @@
 - [镜头表 v001](planning/shotlist-v001.csv)
 - [资产清单 v001](planning/asset-manifest-v001.csv)
 - [官网快照来源记录](references/website/source-manifest-v001.md)
+- [官网素材授权记录](docs/asset-rights-v001.md)
+- [复用aivideo本地运行环境](docs/shared-runtime-v001.md)
+- [官网素材下载清单](references/website/download-manifest-v001.csv)
+- [官网素材视觉审查](reviews/website-assets-review-v001.md)
 - [独立审评空白模板](reviews/review-template-v001.json)
 
 ## 当前结论
