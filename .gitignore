@@ -4,6 +4,7 @@ cases/source-snapshots/
 projects/jenailv-promo-pilot/references/website/*.html
 projects/jenailv-promo-pilot/assets/source/website/
 projects/jenailv-promo-pilot/runtime/
+projects/jenailv-promo-pilot/outputs/
 **/frames/
 **/contact_*.jpg
 **/minutes_*.jpg
