@@ -1,6 +1,7 @@
 # Local media, extracted visual evidence, and runtime dependencies
 .tools/
 cases/source-snapshots/
+projects/jenailv-promo-pilot/references/website/*.html
 **/frames/
 **/contact_*.jpg
 **/minutes_*.jpg

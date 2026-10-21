@@ -1,0 +1,26 @@
+{
+  "candidate_sha256": "unknown",
+  "candidate_file": "unknown",
+  "brief_version": "production-plan-v001",
+  "reviewer_id": "blind-reviewer-unknown",
+  "hard_fail": false,
+  "hard_fail_reasons": [],
+  "scores": {
+    "concept_and_message": 0,
+    "originality": 0,
+    "direction": 0,
+    "visual_system": 0,
+    "animation_craft": 0,
+    "composition_and_type": 0,
+    "editing_and_rhythm": 0,
+    "sound_and_sync": 0,
+    "detail_and_continuity": 0,
+    "technical_delivery": 0
+  },
+  "weighted_total": 0,
+  "first_view_recall": "unknown",
+  "timecoded_findings": [],
+  "top_strengths": [],
+  "revision_order": [],
+  "verdict": "reject"
+}

@@ -1,0 +1,18 @@
+asset_id,category,required_item,source,status,rights_status,hash_or_version,used_by,notes
+WEB-001,reference,官网首页,jenailv.net,archived,internal_reference_only,85E5952C17C45C20C40B34D8D9CFFDF03D6A110FEFEDE4621CDD5ECDFCD3E7EB,S01-S10,2026-10-21快照
+WEB-002,reference,关于我们页,jenailv.net,archived,internal_reference_only,F4F974B800AA16DBE2CBF817A0D597FC7CCD448EECEC80AB5452911E38FCB6DA,S09,网页声明需品牌方确认
+WEB-003,reference,产品中心页,jenailv.net,archived,internal_reference_only,C15D4E19D197B510CBDE98FF0B50BC61FC89B20D70BC1D6A5E8151A13A9EDFC5,S08,产品分类快照
+WEB-004,reference,全自动250型产品页,jenailv.net,archived,internal_reference_only,30B4D7D5394257794CCB5E5C58A5D771DA29D9A321D261D6263721850690338F,S03-S07,参数未独立核验
+BRD-001,brand,Logo矢量与安全区,brand_owner,missing,unknown,unknown,S03 S10,需SVG/AI/PDF和使用授权
+BRD-002,brand,品牌色与字体规范,brand_owner,missing,unknown,unknown,S01-S10,网页色值不能代替正式规范
+PRD-001,product,主推机型最新参数表,brand_owner,missing,unknown,unknown,S03-S08,需型号/速度/包重/尺寸/功率等签字版本
+PRD-002,product,主推机型CAD或三视图,brand_owner,missing,unknown,unknown,S03-S06,无CAD只做外观代理
+VID-001,video,设备全景与英雄运镜,brand_owner,missing,unknown,unknown,S03,建议4K 24/25/50fps原片
+VID-002,video,上料全过程,brand_owner,missing,unknown,unknown,S04,固定机位与运动机位各一条
+VID-003,video,压缩/捆扎/出包全过程,brand_owner,missing,unknown,unknown,S05-S06,保留同期声
+VID-004,video,料包堆放与装车,brand_owner,missing,unknown,unknown,S07,保持同一物料与机型
+VID-005,video,工厂制造/焊接/质检/发货,brand_owner,missing,unknown,unknown,S09,不得用生成画面替代生产证据
+AUD-001,audio,设备同期声,brand_owner,missing,unknown,unknown,S04-S07,需要无音乐原始声
+AUD-002,audio,旁白声线样本,brand_owner_or_local_tts,missing,unknown,unknown,S01-S10,先试听确认再批量
+AUD-003,audio,连续配乐母带,local_generation_or_licensed,missing,unknown,unknown,S01-S10,保存许可/提示词/seed/输出哈希
+FNT-001,font,中英文字体文件,licensed_source,missing,unknown,unknown,S01-S10,需商业使用与嵌入许可
