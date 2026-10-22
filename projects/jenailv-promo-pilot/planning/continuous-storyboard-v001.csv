@@ -1,0 +1,9 @@
+shot_id,start_s,end_s,duration_s,style,continuity_anchor,action,mechanical_cause,output_to_next
+S01,0,5,5,A,blue_plastic_fragment,"camera moves through loose mixed waste",none,"same blue fragment"
+S02,5,11,6,A,blue_plastic_fragment,"fragment rides conveyor toward hopper",conveyor_motion,"conveyor diagonal"
+S03,11,17,6,B,conveyor_diagonal,"low-angle orbit reveals machine starting",motor_and_hydraulic_start,"hopper entrance"
+S04,17,24,7,A,hopper_entrance,"camera follows waste into chamber",conveyor_and_gravity,"same loose material in chamber"
+S05,24,32,8,C_to_A,material_color_pattern,"platen stays in contact through two density states",hydraulic_platen,"dense rectangular bale"
+S06,32,40,8,A,bale_texture,"gate fully opens then ejector contacts and pushes bale",gate_then_ejector,"moving bale"
+S07,40,49,9,A,moving_bale,"bale travels into organized warehouse depth",conveyor_or_forklift_pending_confirmation,"foreground bale wipe"
+S08,49,55,6,B,rectangular_wipe,"wipe reveals final machine hero shot and clean logo area",camera_move,"brand_end_frame"
