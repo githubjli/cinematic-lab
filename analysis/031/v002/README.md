@@ -6,6 +6,8 @@
 
 ## 文件入口
 
+- `original-content-details.md`：直接打开两份资产框架及取镯、公堂实际节点后的细读，含设置矛盾与本地改进。
+
 - `workflow-analysis.md`：故事组织、完整流程、工具、输入输出、质量与风险。
 - `evidence-register.csv`：直接证据、用户说明、推断和未知项。
 - `adoption-plan.md`：可立即采用、需验证及不采用的内容。
