@@ -11,6 +11,7 @@
 
 ## 文件
 
+- [animation-lab同步记录](animation-lab-sync-record-v001.md)：用户授权的独立参考交接包，含本地媒体、应用说明和目标仓库提交。
 - [关键帧故事看板说明](storyboard-board-notes.md)：单张高清20格图，包含镜头、表情、对话与叙事作用；另有标注数据、截帧与重建脚本。
 - [导演、故事与分镜分析](directing-and-story.md)
 - [制作流程推断与本地落地](production-inference.md)

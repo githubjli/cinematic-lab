@@ -7,6 +7,7 @@ from pathlib import Path
 import csv
 import hashlib
 import json
+import os
 import subprocess
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
@@ -14,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[3]
 HERE = Path(__file__).resolve().parent
 OUT = ROOT / 'references/033/storyboard-v001'
 OUT.mkdir(parents=True, exist_ok=True)
-FFMPEG = ROOT / '.tools/python/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe'
+FFMPEG = Path(os.environ.get('FFMPEG_EXE', str(ROOT / '.tools/python/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe')))
 ITEMS = json.loads((HERE / 'storyboard-keyframes.json').read_text(encoding='utf-8'))
 FONT = 'C:/Windows/Fonts/msyh.ttc'
 BOLD = 'C:/Windows/Fonts/msyhbd.ttc'
