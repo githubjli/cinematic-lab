@@ -1,5 +1,7 @@
 # PM-031 多资产责任映射与场次返工流程
 
+专项增量：`analysis/031/v002/master-assets-and-prompts.md`，拆解场景拓扑、人物身份/状态、道具交互和提示词职责；对应本地模板`framework/templates/master-asset-contract-v001.md`。银镯独立生成原文未核实；模板为研究归纳，尚未生产验证。
+
 当前研究入口：`analysis/031/v002/README.md`。用户确认本轮以工作台资产判断生产流程，外部后期独立记录；完整正片听审不作为流程分析前置条件。
 
 本地落地：`framework/templates/production-package-v001/`，包含场次、资产、镜头、参考责任、对白、运行、审查、后期交接和返工九张CSV模板。记录结构已建立，尚无真实生产回填和效果对照，不提升S1成熟度。
