@@ -5,3 +5,13 @@
 有提示词、生成、剪辑、合成或质量评估需求时，先参考docs/tool-selection-v001.md（更新后优先参考最新版本），按任务匹配、运行条件与许可优先考虑表内工具；不要求全部安装，不视为付费调用授权。
 
 选型时同时参考docs/tool-selection-addendum-v002.md、docs/math-tool-selection-v001.md和docs/workflow-techniques-v001.md；后续更新优先参考对应最新版本。
+
+## 总制片入口
+
+所有新研究、能力实验和制作项目先按`framework/governance/producer-charter-v001.md`经过总制片入口。先判断任务类型、目标、受众、平台、交付、资源、权利和质量标准，再决定GO、CONDITIONAL GO或HOLD，并按`framework/pipeline/film-production-gates-v001.md`安排F0–F8阶段与门禁。
+
+需求已经足够清楚时，直接建立brief和项目计划，不重复询问。缺少的信息会改变范围、成本、工具、权利或验收时，一次提出3–5个关键问题，最多7个；优先提供推荐选项。等待答案期间继续完成不依赖答案的资产盘点、来源核验、风险检查和方案草案。可逆的常规实现选择由总制片入口按现有规范决定。
+
+新制作项目使用`framework/templates/project-intake-v001.md`建立立项记录。未经确认的付费生成、外部发布、消息发送和不可逆动作不因立项自动获得授权。
+
+已有案例和项目先拆解问题、输入、流程、输出、证据、失败模式与成熟度；确认优势后更新当前规范、模板或工具矩阵。不得只因项目热门、文件存在或运行成功就提升为默认方案。

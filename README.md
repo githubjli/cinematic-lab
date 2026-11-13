@@ -2,6 +2,8 @@
 
 > 项目正在从案例资料收集转入整体电影生产规范与能力验证。当前重构总纲见[项目重新规划 v001](docs/project-reframing-v001.md)，执行顺序见[路线图](ROADMAP.md)。历史文件继续保留，在新的当前入口建立完成前不批量迁移。
 
+所有新项目先经过[总制片治理章程](framework/governance/producer-charter-v001.md)，使用[影视项目立项表](framework/templates/project-intake-v001.md)明确范围，并按[F0–F8制作阶段与门禁](framework/pipeline/film-production-gates-v001.md)推进。
+
 独立写实电影风格项目，创建于2026-10-13，与animation-lab同级。
 
 当前已有：30个参考视频原始副本及SHA256来源记录、静态采样、统一分析方法和跨案例流程分类。
