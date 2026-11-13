@@ -1,0 +1,14 @@
+{
+  "board": "references\\033\\storyboard-v001\\case033-storyboard-board-v001.png",
+  "board_sha256": "f2f82757695fa0be6c76095f7a92fb5b26b6449723c2f880c96cd2ccc8431822",
+  "width": 3600,
+  "height": 4980,
+  "preview": "references\\033\\storyboard-v001\\case033-storyboard-board-v001-preview.jpg",
+  "preview_sha256": "a58c08451933303e36d725a0173cca9feb2f2752b1f1b5e85da06a6ab44cf1ee",
+  "renderer": "Pillow 13.0.0",
+  "font": "C:/Windows/Fonts/msyh.ttc",
+  "font_sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+  "bold_font": "C:/Windows/Fonts/msyhbd.ttc",
+  "bold_font_sha256": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
+  "review": "Final full preview visually inspected; selected frames match shot/expression annotations; explicit current/adjacent subtitle and summary labels; no continuous motion or sound approval"
+}

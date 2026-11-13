@@ -11,6 +11,7 @@
 
 ## 文件
 
+- [关键帧故事看板说明](storyboard-board-notes.md)：单张高清20格图，包含镜头、表情、对话与叙事作用；另有标注数据、截帧与重建脚本。
 - [导演、故事与分镜分析](directing-and-story.md)
 - [制作流程推断与本地落地](production-inference.md)
 - [段落节奏表](sequence-map.csv)
