@@ -1,0 +1,1 @@
+shot_id,candidate_id,source_path,sha256,source_duration,source_fps,recommended_in,recommended_out,audio_line_ids,entry_state,exit_state,handoff_frame_path,handoff_frame_sha256,handoff_frame_source_time,known_defects,rights_status,external_project_path,export_path

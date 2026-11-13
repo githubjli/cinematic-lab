@@ -1,0 +1,1 @@
+run_id,shot_ids,tool,model,version,environment,prompt_path,prompt_sha256,parameters_path,parameters_sha256,start_time,elapsed_seconds,cost,currency,candidate_id,output_path,output_sha256,duration_seconds,fps,status

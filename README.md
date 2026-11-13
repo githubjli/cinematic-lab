@@ -1,5 +1,7 @@
 # Cinematic Lab
 
+案例031当前研究与落地：[惊夜工作台流程研究包](analysis/031/v002/README.md)；可复用[镜头生产与后期交接模板](framework/templates/production-package-v001/README.md)。
+
 > 项目正在从案例资料收集转入整体电影生产规范与能力验证。当前重构总纲见[项目重新规划 v001](docs/project-reframing-v001.md)，执行顺序见[路线图](ROADMAP.md)。历史文件继续保留，在新的当前入口建立完成前不批量迁移。
 
 所有新项目先经过[总制片治理章程](framework/governance/producer-charter-v001.md)，使用[影视项目立项表](framework/templates/project-intake-v001.md)明确范围，并按[F0–F8制作阶段与门禁](framework/pipeline/film-production-gates-v001.md)推进。
