@@ -2,6 +2,7 @@
 
 ## 制作工作台研究增量（2026-11-13）
 
+- [案例033双集动画成片](../analysis/033/v001/README.md)：角色反差、故事节奏、信息揭示和反应分镜；成片抽样推断，作者工程与AI使用未知。
 - [案例031《惊夜》](../analysis/031/v002/README.md)：多资产职责、母版与镜头合同；[原版提示词](../analysis/031/original-prompts/v001/README.md)。
 - [案例032《淄水渡》](../analysis/032/v001/README.md)：物理因果、空间子区、连接关系与返工；[原版提示词重点存档](../analysis/032/original-prompts/v001/README.md)。两者均为S1研究，不是已复现工程。
 

@@ -20,5 +20,6 @@
 
 ## 2026-11-13研究增量
 
+- 案例033/PM-033：角色互补、观众知情顺序、反应/插入镜头和自主选择高潮，见`analysis/033/v001/README.md`。成片抽样归纳，S1；不推定作者AI工具或将静态采样当运动/声音通过。
 - 案例031/PM-031：三类母版与参考职责映射，见`analysis/031/v002/master-assets-and-prompts.md`；采用交接记录结构，生成控制效果尚未验证。
 - 案例032/PM-032：场景功能分区、物件连接端点、支撑变化、持握与破坏后状态，见`analysis/032/v001/workflow-analysis.md`及`framework/templates/event-and-attachment-contract-v001.md`；成熟度S1，尚未生成对照，不作为质量已通过路线。
